@@ -1,6 +1,8 @@
 # Fed-Tuner
 FederatedLearning with flower and slice tuner
 
+writed by [gggangmin](https://github.com/gggangmin/),[parkjungha](https://github.com/parkjungha/), [sperospera1225](https://github.com/sperospera1225/)
+
 ---------------------------------------------------------------------------
 ### experiments.ipynb
 experiment source code for naive federated learning test with Fedtuner 
