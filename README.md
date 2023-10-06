@@ -1,5 +1,5 @@
 # Fed-Tuner
-FederatedLearning with flower and slice tuner
+Federated Learning with flower and slice tuner
 
 writed by [gggangmin](https://github.com/gggangmin/),[parkjungha](https://github.com/parkjungha/), [sperospera1225](https://github.com/sperospera1225/)
 
