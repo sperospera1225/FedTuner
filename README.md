@@ -1,6 +1,4 @@
-# Fed-Tuner
-Federated Learning with flower and slice tuner
---------------------------------------------------------------------------
+# Fed-Tuner(Federated Learning with flower and slice tuner)
 
 ## Fedtuner
 ### server.py
