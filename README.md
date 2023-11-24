@@ -6,7 +6,8 @@ writed by [gggangmin](https://github.com/gggangmin/),[parkjungha](https://github
 ---------------------------------------------------------------------------
 ### experiments.ipynb
 experiment source code for naive federated learning test with Fedtuner 
-<img width="672" alt="Screenshot 2023-11-24 at 1 44 27 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/fcb66a29-8764-47ab-b0d3-8d9da7505689">
+<img width="684" alt="Screenshot 2023-11-24 at 1 44 17 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/a5812e6a-4b15-4f7a-8e5e-073c3b678749">
+
 
 ---------------------------------------------------------------------------
 ## Fedtuner
