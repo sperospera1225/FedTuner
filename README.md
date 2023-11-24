@@ -11,7 +11,8 @@ simple cnn model for training from client and evaluation from server
 experiment source code for naive federated learning test with Fedtuner 
 
 The detailed algorithm is as follows:
-<img width="672" alt="Screenshot 2023-11-24 at 1 44 27 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/353bc6d2-eb69-4610-87af-df9b600dc660">
+
+<img width="300" alt="Screenshot 2023-11-24 at 1 44 27 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/353bc6d2-eb69-4610-87af-df9b600dc660">
 
 ### dataset
 FashionMNIST
