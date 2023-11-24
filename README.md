@@ -6,6 +6,7 @@ writed by [gggangmin](https://github.com/gggangmin/),[parkjungha](https://github
 ---------------------------------------------------------------------------
 ### experiments.ipynb
 experiment source code for naive federated learning test with Fedtuner 
+<img width="672" alt="Screenshot 2023-11-24 at 1 44 27 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/fcb66a29-8764-47ab-b0d3-8d9da7505689">
 
 ---------------------------------------------------------------------------
 ## Fedtuner
@@ -16,6 +17,11 @@ client module based on flower, which consist of local model estimator and data a
 ### cnn.py
 simple cnn model for training from client and evaluation from server
 
+The detailed algorithm is as follows:
+<img width="672" alt="Screenshot 2023-11-24 at 1 44 27 PM" src="https://github.com/sperospera1225/selective_data_federated_learning/assets/67995592/353bc6d2-eb69-4610-87af-df9b600dc660">
+
 ---------------------------------------------------------------------------
 ### dataset
 FashionMNIST
+
+>note: The result has been recognized by Korean Information Science Society Conference Excellence Paper Award.
